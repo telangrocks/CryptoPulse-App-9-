@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Crypto Compose</string>
+    <string name="error_generic">Unexpected error</string>
+
+    <string name="home_title">Trade Now and Get\nYour Life</string>
+    <string name="home_my_coins_title">My Coins 😎</string>
+    <string name="home_trending_title">Trending 🔥</string>
+    <string name="home_see_all">see all</string>
+
+    <string name="detail_market_cap_title">Market Cap</string>
+    <string name="detail_all_time_high_title">All Time High</string>
+    <string name="detail_all_time_low_title">All Time Low</string>
+
+    <string name="portfolio_card_total_coin_label">Total Coins</string>
+    <string name="portfolio_card_today_profit_label">Today\'s Profit</string>
+
+    <string name="coin_currency">$%s</string>
+    <string name="coin_profit_percent">%1$s%%</string>
+
+    <string name="coin_info_sell_button">Sell</string>
+    <string name="coin_info_buy_button">Buy</string>
+    
+    <string name="no_internet_title">Oops!</string>
+    <string name="no_internet_message">No internet connection was found. Please check your internet connection and try again.</string>
+</resources>

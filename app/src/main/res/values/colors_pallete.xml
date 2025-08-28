@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Declaring colors with their real name from the style guide we get -->
+    <color name="almost_white">#FFF8F8F8</color>
+    <color name="dark_jungle_green">#FF141B29</color>
+</resources>
